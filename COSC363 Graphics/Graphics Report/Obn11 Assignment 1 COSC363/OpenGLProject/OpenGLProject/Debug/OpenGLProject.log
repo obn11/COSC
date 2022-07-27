@@ -1,0 +1,52 @@
+﻿  ProjectBarber.cpp
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(16,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(20,64): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(28,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(122,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(237,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(237,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(237,10): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(236,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(236,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(236,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(235,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(235,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(235,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(239,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(239,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(239,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(243,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(243,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(243,10): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(242,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(242,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(242,10): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(241,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(241,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(241,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(245,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(245,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(245,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(271,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(272,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(280,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(281,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(290,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(291,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(300,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(301,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(318,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(319,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(320,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(321,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(338,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(351,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(389,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(390,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(415,39): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(416,45): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(419,27): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(420,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(424,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\ProjectBarber.cpp(425,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  OpenGLProject.vcxproj -> C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\Debug\OpenGLProject.exe

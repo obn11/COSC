@@ -1,0 +1,61 @@
+﻿  Plane.cpp
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\SceneObject.h(26,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\SceneObject.h(27,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\SceneObject.h(28,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Ray.cpp
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\SceneObject.h(26,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\SceneObject.h(27,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\SceneObject.h(28,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\Ray.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+  RayTracer.cpp
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\SceneObject.h(26,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\SceneObject.h(27,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\SceneObject.h(28,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\RayTracer.cpp(53,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\RayTracer.cpp(54,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\RayTracer.cpp(84,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\RayTracer.cpp(85,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\RayTracer.cpp(86,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\RayTracer.cpp(107,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\RayTracer.cpp(108,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\RayTracer.cpp(225,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\RayTracer.cpp(226,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\RayTracer.cpp(227,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\RayTracer.cpp(266,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\RayTracer.cpp(326,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\RayTracer.cpp(331,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\RayTracer.cpp(332,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\RayTracer.cpp(333,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\RayTracer.cpp(338,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\RayTracer.cpp(339,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  SceneObject.cpp
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\SceneObject.h(26,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\SceneObject.h(27,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\SceneObject.h(28,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\SceneObject.cpp(19,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Sphere.cpp
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\SceneObject.h(26,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\SceneObject.h(27,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\SceneObject.h(28,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  TextureBMP.cpp
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\TextureBMP.cpp(44,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\TextureBMP.cpp(45,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\OpenGLProject\TextureBMP.cpp(46,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  OpenGLProject.vcxproj -> C:\Users\User\Desktop\COSC\COSC363 Graphics\OpenGLProject\Debug\OpenGLProject.exe
